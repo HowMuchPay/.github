@@ -1,4 +1,4 @@
-## 얼마나
+# 얼마나
 
 ## 프로젝트 소개
 안녕하세요! 현대 사회에서 경조사 비용 관리와 추천이라는 중요한 과제에 대해 고민하고 계신 분들을 위해, 신속하고 효율적인 도우미 서비스를 소개해드리려고 합니다.
@@ -40,6 +40,9 @@
 ### 협업
 
 - Design <br>
+   <img alt="Figma" src ="https://img.shields.io/badge/Figma-F24E1E?&style=for-the-badge&logo=Figma&logoColor=white"/>
+- Cooperation <br>
+    <img alt="Slack" src ="https://img.shields.io/badge/Slack-4A154B?&style=for-the-badge&logo=Slack&logoColor=white"/>  <img alt="Notion" src ="https://img.shields.io/badge/Notion-000000?&style=for-the-badge&logo=Notion&logoColor=white"/> 
 
 ## 개발 일정
 
