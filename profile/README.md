@@ -26,10 +26,24 @@
     </tr>
   </tbody>
 </table>
+## 개발 환경
+
+### 기술
+
+- Front-End <br>
+   <img alt="React" src ="https://img.shields.io/badge/React-61DAFB?&style=for-the-badge&logo=React&logoColor=white"/>   <img alt="Visual Studio Code" src ="https://img.shields.io/badge/Visual Studio Code-007ACC?&style=for-the-badge&logo=Visual Studio Codet&logoColor=white"/>
+   
+
+- Back-End<br>
+   <img alt="JAVA" src ="https://img.shields.io/badge/JAVA-C9284D.svg?&style=for-the-badge&logo=java&logoColor=white"/></a> <img alt="Spring" src ="https://img.shields.io/badge/Spring-6DB33F.svg?style=for-the-badge&logo=Spring&logoColor=white"/> <img src="https://img.shields.io/badge/spring boot-6DB33F?style=for-the-badge&logo=spring boot&logoColor=white"> <img alt=" MySQL" src ="https://img.shields.io/badge/MySQL-003545.svg?&style=for-the-badge&logo=MySQL&logoColor=white"/> <img alt="Amazon AWS" src ="https://img.shields.io/badge/Amazon AWS-FF9900.svg?&style=for-the-badge&logo=Amazon AWS&logoColor=white"/>
+
+### 협업
+
+- Design <br>
 
 ## 개발 일정
 
-전체 개발 일정: 2023.06.01
+**전체 개발 일정: 2023.06.01 ~ 07.15**
 
 <img width="1278" alt="스크린샷 2023-06-16 오전 2 58 27" src="https://github.com/HowMuchPay/.github/assets/96874318/14c738c6-a008-4f38-89dd-3182a11cf46b">
 
