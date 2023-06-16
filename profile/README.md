@@ -14,7 +14,7 @@
 
 ## 팀원 소개 및 역할 분담
 
-<table style="margin:0 auto;">
+<table align="center">
   <tbody><tr>
     <td align="center" colspan="1">프론트엔드</td>
     <td align="center" colspan="2">백엔드</td>
@@ -22,17 +22,17 @@
   <tr>
     <td>
       <a href="https://github.com/unoung">
-        <img src="https://velog.velcdn.com/images/choidongkuen/post/c8ccc002-019e-443e-904b-b452954e68b1/image.jpeg" width="150px" style="max-width: 100%;">
+        <img src="https://velog.velcdn.com/images/choidongkuen/post/c8ccc002-019e-443e-904b-b452954e68b1/image.jpeg" width="200px" style="max-width: 100%;">
       </a>
     </td>
     <td>
       <a href="https://github.com/choidongkuen">
-        <img src="https://avatars.githubusercontent.com/u/96874318?v=4" width="150px" style="max-width: 100%;">
+        <img src="https://avatars.githubusercontent.com/u/96874318?v=4" width="200px" style="max-width: 100%;">
       </a>
     </td>
     <td>
       <a href="https://github.com/seongHyun-Min">
-        <img src="https://velog.velcdn.com/images/choidongkuen/post/57258c08-4139-41d4-a46d-690e3ab0c93d/image.jpeg" width="150px" style="max-width: 100%;">
+        <img src="https://velog.velcdn.com/images/choidongkuen/post/57258c08-4139-41d4-a46d-690e3ab0c93d/image.jpeg" width="200px" style="max-width: 100%;">
       </a>
     </td>
     
