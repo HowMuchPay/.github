@@ -58,7 +58,7 @@
 ### 기술
 
 - Front-End <br>
-   <img alt="React" src ="https://img.shields.io/badge/React-61DAFB?&style=for-the-badge&logo=React&logoColor=white"/>   <img alt="TypeScript" src ="https://img.shields.io/badge/Typescript-3178C6?&style=for-the-badge&logo=Typescript&logoColor=white"/>  <img alt="Visual Studio Code" src ="https://img.shields.io/badge/Visual Studio Code-007ACC?&style=for-the-badge&logo=Visual Studio Codet&logoColor=white"/>
+   <img alt="React" src ="https://img.shields.io/badge/React-61DAFB?&style=for-the-badge&logo=React&logoColor=white"/> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"> <img alt="RN" src ="https://img.shields.io/badge/React-61DAFB?&style=for-the-badge&logo=RN&logoColor=white"/>
    
 
 - Back-End<br>
