@@ -58,7 +58,7 @@
 ### 기술
 
 - Front-End <br>
-   <img alt="React" src ="https://img.shields.io/badge/React-61DAFB?&style=for-the-badge&logo=React&logoColor=white"/> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"> <img alt="RN" src ="https://img.shields.io/badge/React-61DAFB?&style=for-the-badge&logo=RN&logoColor=white"/>
+   <img alt="React" src ="https://img.shields.io/badge/React-61DAFB?&style=for-the-badge&logo=React&logoColor=white"/> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">
    
 
 - Back-End<br>
