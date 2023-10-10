@@ -1,4 +1,4 @@
-# 얼마나
+
 
 ## 프로젝트 소개
 안녕하세요! 현대 사회에서 경조사 비용 관리와 추천이라는 중요한 과제에 대해 고민하고 계신 분들을 위해, 신속하고 효율적인 도우미 서비스를 소개해드리려고 합니다.
@@ -51,6 +51,27 @@
     
   </tr>
 </tbody></table>
+
+## 서비스 얼마나 요약 
+
+#### 1. 온보딩
+![](https://velog.velcdn.com/images/choidongkuen/post/c3e1849e-283c-4dca-a6c2-84e3dd7bf271/image.png)
+#### 2. 메인 홈
+![](https://velog.velcdn.com/images/choidongkuen/post/a105284b-3089-47b1-8f9b-f972964a086c/image.png)
+
+#### 3. 나의 경조사 받은 내역 관리 기능
+![](https://velog.velcdn.com/images/choidongkuen/post/98ddd87a-c42e-45b9-809b-9e04399d4a89/image.png)
+
+#### 4. 지인 경조사 준 내역 관리 기능
+![](https://velog.velcdn.com/images/choidongkuen/post/4536fbde-30c0-4632-8325-4d3619670db3/image.png)
+
+#### 5. 지인 경조사 추천 기능
+![](https://velog.velcdn.com/images/choidongkuen/post/e00203c1-5d37-41e7-9bd3-36d6e9c3dcb6/image.png)
+
+#### 6. 캘린더,통계 기능
+![](https://velog.velcdn.com/images/choidongkuen/post/d12ceff3-c2b5-4e8a-9b9c-e2621b0c80ea/image.png)
+
+
 
 
 ## 개발 환경
