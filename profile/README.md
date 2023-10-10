@@ -94,7 +94,7 @@
     <img alt="Slack" src ="https://img.shields.io/badge/Slack-4A154B?&style=for-the-badge&logo=Slack&logoColor=white"/>  <img alt="Notion" src ="https://img.shields.io/badge/Notion-000000?&style=for-the-badge&logo=Notion&logoColor=white"/> 
 ## 개발 일정
 
-**전체 개발 일정: 2023.06.01 ~ 07.15**
+**전체 개발 일정: 2023.06.01 ~ 10.20**
 
 <img width="1278" alt="스크린샷 2023-06-16 오전 2 58 27" src="https://github.com/HowMuchPay/.github/assets/96874318/14c738c6-a008-4f38-89dd-3182a11cf46b">
 
