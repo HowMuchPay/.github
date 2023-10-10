@@ -62,7 +62,8 @@
    
 
 - Back-End<br>
-<img alt="intellijidea" src ="https://img.shields.io/badge/intellijidea-001A4B.svg?&style=for-the-badge&logo=intellijidea&logoColor=white"/></a><img alt="JAVA" src ="https://img.shields.io/badge/JAVA-C9284D.svg?&style=for-the-badge&logo=java&logoColor=white"/></a> <img alt="Spring" src ="https://img.shields.io/badge/Spring-6DB33F.svg?style=for-the-badge&logo=Spring&logoColor=white"/> <img src="https://img.shields.io/badge/spring boot-6DB33F?style=for-the-badge&logo=spring boot&logoColor=white"> <img src="https://img.shields.io/badge/spring Security-6DB33F?style=for-the-badge&logo=spring Security&logoColor=white"> <br> <img alt=" MySQL" src ="https://img.shields.io/badge/MySQL-003545.svg?&style=for-the-badge&logo=MySQL&logoColor=white"/> <img alt="Amazon EC2" src ="https://img.shields.io/badge/Amazon EC2-FF9900.svg?&style=for-the-badge&logo=Amazon EC2&logoColor=white"/> <img alt="Amazon RDS" src ="https://img.shields.io/badge/Amazon RDS-527FFF.svg?&style=for-the-badge&logo=Amazon RDS&logoColor=white"/> <img alt="Amazon S3" src ="https://img.shields.io/badge/Amazon S3-DD344C.svg?&style=for-the-badge&logo=Amazon S3&logoColor=white"/> <img alt="Amazon Route 53" src ="https://img.shields.io/badge/Amazon Route 53-8C4FFF.svg?&style=for-the-badge&logo=Amazon Route 53&logoColor=white"/> 
+<img alt="intellijidea" src ="https://img.shields.io/badge/intellijidea-001A4B.svg?&style=for-the-badge&logo=intellijidea&logoColor=white"/></a><img alt="JAVA" src ="https://img.shields.io/badge/JAVA-C9284D.svg?&style=for-the-badge&logo=java&logoColor=white"/></a> <img alt="Spring" src ="https://img.shields.io/badge/Spring-6DB33F.svg?style=for-the-badge&logo=Spring&logoColor=white"/> <img src="https://img.shields.io/badge/spring boot-6DB33F?style=for-the-badge&logo=spring boot&logoColor=white"> <img src="https://img.shields.io/badge/spring Security-6DB33F?style=for-the-badge&logo=spring Security&logoColor=white"> <br> <img alt=" MySQL" src ="https://img.shields.io/badge/MySQL-003545.svg?&style=for-the-badge&logo=MySQL&logoColor=white"/> <img alt="Amazon EC2" src ="https://img.shields.io/badge/Amazon EC2-FF9900.svg?&style=for-the-badge&logo=Amazon EC2&logoColor=white"/> <img alt="Amazon RDS" src ="https://img.shields.io/badge/Amazon RDS-527FFF.svg?&style=for-the-badge&logo=Amazon RDS&logoColor=white"/> <img alt="Amazon S3" src ="https://img.shields.io/badge/Amazon S3-DD344C.svg?&style=for-the-badge&logo=Amazon S3&logoColor=white"/> <img alt="Amazon Route 53" src ="https://img.shields.io/badge/Amazon Route 53-8C4FFF.svg?&style=for-the-badge&logo=Amazon Route 53&logoColor=white"/><br> <img alt="Github Actions" src ="https://img.shields.io/badge/Github Actions-004B8D.svg?style=for-the-badge&logo=Github Actions&logoColor=white"/> <img alt="Docker" src ="https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=Docker&logoColor=white"/>
+
 
 ### 협업
 
@@ -70,7 +71,6 @@
    <img alt="Figma" src ="https://img.shields.io/badge/Figma-F24E1E?&style=for-the-badge&logo=Figma&logoColor=white"/>
 - Cooperation <br>
     <img alt="Slack" src ="https://img.shields.io/badge/Slack-4A154B?&style=for-the-badge&logo=Slack&logoColor=white"/>  <img alt="Notion" src ="https://img.shields.io/badge/Notion-000000?&style=for-the-badge&logo=Notion&logoColor=white"/> 
-
 ## 개발 일정
 
 **전체 개발 일정: 2023.06.01 ~ 07.15**
